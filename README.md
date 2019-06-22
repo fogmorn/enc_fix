@@ -1,8 +1,7 @@
 # enc_fix
 Checks that file is `UTF-8` encoded and fix it if not.
 
-If file isn't in `UTF-8` or partitly, script converts  
-file using `ex` (vim) editor.
+If file isn't in `UTF-8` or partitly, script converts file using `ex` (vim) editor.
 
 You may see results in `pre-commit.git.log` file.
 
